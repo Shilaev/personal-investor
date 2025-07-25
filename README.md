@@ -1,7 +1,7 @@
 [![Java](https://img.shields.io/badge/Java-21+-007396?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Scala](https://img.shields.io/badge/Scala-3.3.1-DC322F?logo=scala&logoColor=white)](https://www.scala-lang.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.4+-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.4+-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.2-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-framework#overview)
 [![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud-gateway)
