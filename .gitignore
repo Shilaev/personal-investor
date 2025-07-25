@@ -1,2 +1,4 @@
 minikube
-analytics-service/.idea*
+*.idea*
+*.gradle*
+*.vscode*
