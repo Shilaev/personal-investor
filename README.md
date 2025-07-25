@@ -19,6 +19,10 @@
 
 <br>
 
+---
+
+<br>
+
 <div style="text-align: left; width: 900px;">
   <img src="./readme-files/3b25648560ee6a0d639d52c8fe168ce4.png" alt="service_registration" width="900">  
   <p style="text-align: center;"><em>Связь сервисов по протоколам</em></p>
@@ -26,10 +30,18 @@
 
 <br>
 
+---
+
+<br>
+
 <div style="text-align: left; width: 900px;">
   <img src="./readme-files/a2404a9fa88651567bca74d250f66cfd.png" alt="service_registration" width="900">  
   <p style="text-align: center;"><em>Основные технологии для сервисов</em></p>
 </div>
+
+<br>
+
+---
 
 <br>
 
